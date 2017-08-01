@@ -32,6 +32,8 @@
 </head>
     
 <body>
+	<a>mario david</a>
+
     @include('titulo')
     <section>
     @yield('titulo_sitio')
